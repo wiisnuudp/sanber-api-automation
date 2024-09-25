@@ -2,6 +2,7 @@
   "dependencies": {
     "chai": "^5.1.1",
     "mocha": "^10.7.3",
+    "mochawesome": "^7.1.3",
     "supertest": "^7.0.0"
   },
   "name": "sanber-api-automation-penekanan-3",
@@ -9,7 +10,6 @@
   "description": "api automation",
   "main": "index.js",
   "type": "module",
-  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
